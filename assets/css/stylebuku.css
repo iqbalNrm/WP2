@@ -1,24 +1,24 @@
 body {
-	background: #eee;
+	background: Coral;
 	color: #333;
 	font-family: sans-serif;
 	font-size: 15px;
 }
 
 #wrapper {
-	background: #fff;
+	background: Beige;
 	width: 1100px;
 	margin: 20px auto;
 }
 
 #wrapper header {
-	background: #232323;
+	background: Plum;
 	padding: 20px;
 }
 
 #wrapper header hgroup {
 	float: left;
-	color: #fff;
+	color: white;
 }
 
 #wrapper header nav {
@@ -47,7 +47,7 @@ body {
 }
 
 footer {
-	background: #232323;
+	background: Teal;
 	padding: 20px;
 }
 

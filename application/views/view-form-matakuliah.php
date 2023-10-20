@@ -25,6 +25,8 @@
                     <th>:</th>
                     <td>
                         <input type="text" name="kode" id="kode">
+                        <?= form_error('kode', '<br><span style="color:red;
+                        ">', '</span>'); ?>
                     </td>
                 </tr>
                 <tr>
@@ -32,6 +34,8 @@
                     <td>:</td>
                     <td>
                         <input type="text" name="nama" id="nama">
+                        <?= form_error('nama', '<br><span style="color:red;
+                        ">', '</span>'); ?>
                     </td>
                 </tr>
                 <tr>
